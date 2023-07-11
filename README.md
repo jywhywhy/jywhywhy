@@ -1,7 +1,5 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&section=header&text=안녕하세요&fontColor=f4f4f4&fontSize=60&animation=fadeIn&fontAlignY=55)<br/><br/><br/>
-
 # STACK<br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
