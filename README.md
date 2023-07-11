@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&section=header&text=안녕하세요&fontColor=f4f4f4&fontSize=60&animation=fadeIn&fontAlignY=55)<br/><br/><br/>
 
-  STACK<br/>
+# STACK<br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;&nbsp;
@@ -18,6 +18,6 @@
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">&nbsp;&nbsp;&nbsp;
 
-ME<br/>
+# ME<br/>
 <a href="mailto:songpring@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
