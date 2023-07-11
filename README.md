@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 송재영입니다👋
 
 <!--
 **jywhywhy/jywhywhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
