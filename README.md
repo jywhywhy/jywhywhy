@@ -2,7 +2,7 @@
 
 # Song Jaeyeong 😉<br/>
 
-<img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white">&nbsp;&nbsp;
+<a href="https://www.notion.so/0e9ddc60af4f455f892b629301c35dd1"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:jefkdjsf1@naver.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 ## STACK 🔨<br/>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
