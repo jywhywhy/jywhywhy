@@ -2,9 +2,10 @@
 
 # Song Jaeyeong 😉<br/>
 
-<a href="mailto:songpring@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white">&nbsp;&nbsp;
+<a href="mailto:jefkdjsf1@naver.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 ## STACK 🔨<br/>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;
